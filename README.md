@@ -53,6 +53,18 @@ It provides executives, analysts, and business teams with a clear view of **sale
 
 ---
 
+
+This repository contains **five Power BI dashboards**, each focusing on a different aspect of analysis:
+
+- `Product_Performance.pbix` – Product sales and performance metrics  
+- `Customer_Review_Analysis.pbix` – Ratings, reviews, and sentiment insights  
+- `Price_Discount_Analysis.pbix` – Pricing strategies and discount impact  
+- `Brand_Analysis.pbix` – Market share and brand positioning  
+- `Extra_Info.pbix` – Supporting data and additional insights  
+
+👉 Place all five `.pbix` files inside a folder named **/dashboards** in this repository for easy access.
+
+
 ## 📈 Analytical Insights
 
 - **Discount Trap** → Excessive discounts (>20%) erode profit margins.  
@@ -61,6 +73,20 @@ It provides executives, analysts, and business teams with a clear view of **sale
 - **Seasonality** → Q4 spikes in sales highlight the importance of inventory and staffing optimization.  
 
 ---
+## 🖼️ Dashboard Preview
+
+This repository contains **five Power BI dashboards**, each focusing on a different aspect of analysis:
+
+### `Product Performance` – Product sales and performance metrics
+![Product_Performance](https://github.com/Malayasis-Banerjee/SWYNEX-Interactive-Dashboard/blob/main/Product%20Performance.png)
+### `Customer Review Analysis` – Ratings, reviews, and sentiment insights 
+![Customer Review Analysis](https://github.com/Malayasis-Banerjee/SWYNEX-Interactive-Dashboard/blob/main/Customer%20Review%20Analysis.png)
+### `Price Discount Analysis` – Pricing strategies and discount impact 
+![Price Discount Analysis](https://github.com/Malayasis-Banerjee/SWYNEX-Interactive-Dashboard/blob/main/Price%20And%20Discount%20Analysis.png)
+### `Brand Analysis` – Market share and brand positioning  
+![Brand Analysis](https://github.com/Malayasis-Banerjee/SWYNEX-Interactive-Dashboard/blob/main/Brand%20Analysis.png)
+### `Extra Info` – Supporting data and additional insights  
+![Extra info](https://github.com/Malayasis-Banerjee/SWYNEX-Interactive-Dashboard/blob/main/Extra%20Info.png)
 
 ## ⚙️ How to View and Run Locally
 
@@ -70,4 +96,11 @@ It provides executives, analysts, and business teams with a clear view of **sale
 ### Steps
 1. Clone the repository:
    ```bash
-   git 
+     https://github.com/Malayasis-Banerjee/SWYNEX-Interactive-Dashboard
+   ```
+## 👤 Author
+
+**Malayasis Banerjee**  
+
+Data Analyst Intern | Aspiring Data Analyst
+#DataAnalytics #ExploratoryDataAnalysis #SWYNEXTechnologies
